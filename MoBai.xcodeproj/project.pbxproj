@@ -278,6 +278,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				DEVELOPMENT_TEAM = L4FET847JL;
 				INFOPLIST_FILE = MoBai/Info.plist;
 				PRODUCT_BUNDLE_IDENTIFIER = com.buddybuild.MoBai;
@@ -290,6 +291,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				DEVELOPMENT_TEAM = L4FET847JL;
 				INFOPLIST_FILE = MoBai/Info.plist;
 				PRODUCT_BUNDLE_IDENTIFIER = com.buddybuild.MoBai;
